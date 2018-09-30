@@ -38,6 +38,14 @@ KEYS_ESCAPE = (
     21,                    # MacOs iterm 2 Fish
 )
 
+KEYS_DELETE = (
+    'd',
+)
+
+KEYS_DELETE_CONFIRM = (
+    'y',
+)
+
 KEYS_HOME = (
     curses.KEY_HOME,
 )
